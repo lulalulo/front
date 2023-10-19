@@ -1,0 +1,15 @@
+<a routerLink="/registro-list">Registro List</a>
+<ul>
+  <li *ngFor="let registro of registros">
+    <div>
+      <strong>Nombre:</strong> {{ registro.nombre }}
+    </div>
+    <div>
+      <strong>Empresa:</strong> {{ registro.nomempresa }}
+    </div>
+    <div>
+      <strong>Correo:</strong> {{ registro.correo }}
+    </div>
+  </li>
+</ul>
+
