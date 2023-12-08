@@ -1,3 +1,6 @@
+# PROPOSITO DE PROYECTO
+Este es el front del proyecto https://github.com/lulalulo/testtec
+
 # Front
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
